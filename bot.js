@@ -6,7 +6,9 @@ console.log("Welcome Again !");
  client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(`
-**السلام عليكم
+
+** #__Bُubbles Tumplr__ .
+السلام عليكم
 سيرفرنا جميل وينقصنا جمالك
 [ __ https://discord.gg/fec72py __]
 حياك ي عيني ...**
@@ -18,7 +20,8 @@ console.log("Welcome Again !");
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**السلام عليكم
+** #__Bُubbles Tumplr__ .
+السلام عليكم
 سيرفرنا جميل وينقصنا جمالك
 [ __ https://discord.gg/fec72py __]
 حياك ي عيني ...**`) 
